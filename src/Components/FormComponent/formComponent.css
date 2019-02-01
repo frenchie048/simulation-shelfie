@@ -1,0 +1,11 @@
+.add-form {
+    height: 520px;
+    width: 450px;
+    background-color: #3AD886;
+    border: none;
+    border-radius: 5px;
+}
+
+.new-information input {
+    width: 90%;
+}

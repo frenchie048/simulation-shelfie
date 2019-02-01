@@ -1,0 +1,25 @@
+.product-card {
+    width: 600px;
+    height: 250px;
+    background-color: #D34735;
+    display: flex;
+    /* flex-direction: column; */
+    margin: 70px;
+    border: none;
+    border-radius: 5px;
+    /* position: fixed; */
+}
+
+.product-card img {
+    height: 200px;
+    max-width: 320px;
+    /* flex-direction: flex-start; */
+}
+
+/* .product-info {
+  
+} */
+
+.product-card button {
+    background-color: #3AD886;
+}
